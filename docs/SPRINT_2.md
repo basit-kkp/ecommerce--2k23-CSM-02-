@@ -177,6 +177,8 @@ erDiagram
         INTEGER quantity
     }
 
+
+
 3.2 Main Relationships
 
 One category can contain many products.
